@@ -1,0 +1,3 @@
+name: sshop
+version: '${version}'
+main: io.github.xitadoo.sshop.Main

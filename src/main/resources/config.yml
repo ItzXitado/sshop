@@ -1,0 +1,27 @@
+Spawners: #ENTITY_TYPE:COST
+  SPIDER: 1000
+  COW: 200
+  CREEPER: 4000
+  BLAZE: 10
+  CAVE_SPIDER: 10
+  VILLAGER: 10
+  IRON_GOLEM: 10
+  WOLF: 10
+  RABBIT: 10
+  WITHER: 10
+  ENDERMAN: 10
+  SLIME: 10
+  WITCH: 10
+  SQUID: 10
+  HORSE: 10
+  PIG: 10
+  ZOMBIE: 10
+  PIG_ZOMBIE: 10
+  OCELOT: 10
+  GHAST: 10
+  ENDERMITE: 10
+  BAT: 10
+  CHICKEN: 10
+MongoDB:
+  connection_String: 'mongodb+srv://<user>:<password>@cluster0.eerhvxp.mongodb.net/?retryWrites=true&w=majority'
+  db_name: 'sshop'
