@@ -126,4 +126,4 @@ Finds and returns a `Spawner` object based on the specified entity type.
 
 Loads spawners from the plugin configuration file (`config.yml`) and populates the `spawnerList`. Logs any invalid configuration entries to the console.
 
-- **Note:** This method is called automatically during the construction of `SpawnerManager` and is not intended to be called directly.
+- **Note:** This method is called automatically during the construction of `SpawnerManager` 
