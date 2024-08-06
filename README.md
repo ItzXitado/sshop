@@ -77,7 +77,7 @@ Updates the player's history with a new spawner event for the specified entity t
 
 - **Parameters:**
   - `UUID playerId`: The UUID of the player.
-  - `EntityType type`: The entity type for the spawner event.
+  - `EntityType type`: The entity type for the spawner.
 - **Returns:** None.
 
 #### `getSortedList(List<History> playerHistory, Sort sort): ArrayList<ItemStack>`
