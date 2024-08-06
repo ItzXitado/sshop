@@ -98,7 +98,7 @@ Returns a sorted list of `ItemStack` objects based on the player's history and t
 
 ## SpawnerManager API
 
-The `SpawnerManager` class is responsible for managing the spawners in your plugin. It loads spawner configurations and provides methods to retrieve spawners based on entity types.
+The `SpawnerManager` class is responsible for managing the spawners. It loads spawner configurations and provides methods to retrieve spawners based on entity types.
 
 ### Fields
 
